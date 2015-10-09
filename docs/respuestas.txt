@@ -1,1 +1,6 @@
 Trabajo en equipo con git
+LPP_33
+
+Además de que el lenguaje es distinto, el .sh se puede ejecutar directamente
+ya que en su primera línea de código hace una llamada a la shell. El .rb 
+para poder interpretarlo es necesario utilizar el comando ruby.  
